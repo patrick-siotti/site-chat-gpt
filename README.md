@@ -7,5 +7,3 @@ Quando você se conecta no site, ele já cria uma sessão pra você, inicializan
 A comunicação é via websocket.
 
 Tudo é criado na primeira vez que você entra, com o modelo e websocket sendo finalizados no momento em que você sai, mas guardando toda suas mensagens para uma próxima vez que você quiser conversar com ele :)
-
-https://github.com/user-attachments/assets/31ddcd6c-24b5-4e05-b42a-f21ee9e3a886
